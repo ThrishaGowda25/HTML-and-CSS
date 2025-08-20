@@ -1,5 +1,2 @@
 # HTML-and-CSS
-first repo
-//tryingg
-sfvxcv
-
+styling using css grid
